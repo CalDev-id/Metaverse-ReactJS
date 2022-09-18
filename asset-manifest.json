@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Metaverse-ReactJS/static/css/main.9accb44c.css",
+    "main.js": "/Metaverse-ReactJS/static/js/main.5481af88.js",
+    "static/media/avatar2.png": "/Metaverse-ReactJS/static/media/avatar2.ed5aa149b1855c6b89f4.png",
+    "static/media/avatar3.png": "/Metaverse-ReactJS/static/media/avatar3.960815d714e13b6119c9.png",
+    "static/media/headset-1.png": "/Metaverse-ReactJS/static/media/headset-1.4113a83119be0dd4c844.png",
+    "static/media/explore.png": "/Metaverse-ReactJS/static/media/explore.ebf710feded2cdf0173a.png",
+    "static/media/headset-3.png": "/Metaverse-ReactJS/static/media/headset-3.dd254bc5c9f5710f6b8c.png",
+    "static/media/avatar1.png": "/Metaverse-ReactJS/static/media/avatar1.4636619e0523f24c3cc1.png",
+    "static/media/headset-2.png": "/Metaverse-ReactJS/static/media/headset-2.5e7d3a4f5053a7cd83ce.png",
+    "static/media/headset-4.png": "/Metaverse-ReactJS/static/media/headset-4.86fbd5331fdf883cace8.png",
+    "static/media/hero.png": "/Metaverse-ReactJS/static/media/hero.c0d2ee2f092ce898386c.png",
+    "static/media/exp-img1.png": "/Metaverse-ReactJS/static/media/exp-img1.28ea24567fb8b360e2e4.png",
+    "static/media/exp-img2.png": "/Metaverse-ReactJS/static/media/exp-img2.a216be8605dcc797f8c2.png",
+    "static/media/circle.png": "/Metaverse-ReactJS/static/media/circle.ab211ee049f549b93c44.png",
+    "static/media/video-bg.png": "/Metaverse-ReactJS/static/media/video-bg.a355a39dae93704ab5bf.png",
+    "static/media/hero-background.png": "/Metaverse-ReactJS/static/media/hero-background.0cbb782e979405fb66e9.png",
+    "index.html": "/Metaverse-ReactJS/index.html",
+    "main.9accb44c.css.map": "/Metaverse-ReactJS/static/css/main.9accb44c.css.map",
+    "main.5481af88.js.map": "/Metaverse-ReactJS/static/js/main.5481af88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9accb44c.css",
+    "static/js/main.5481af88.js"
+  ]
+}
